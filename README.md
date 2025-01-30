@@ -8,7 +8,7 @@ This project builds a logistic regression model to classify breast cancer cases 
 It contains features extracted from tumor samples to classify them as benign (2) or malignant (4).
 
 ### Technologies used
-•Python \n
+•Python
 •Jupyter Notebook
 •Pandas
 •Scikit-learn
