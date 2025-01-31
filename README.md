@@ -13,6 +13,10 @@ It contains features extracted from tumor samples to classify them as benign (2)
 •Pandas
 •Scikit-learn
 
+### Requirement to run the code:
+• Breast cancer dataset
+• Jupyter Notebook
+
 ### Project Workflow
 
 #### Data Preprocessing:
